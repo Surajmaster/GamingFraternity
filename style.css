@@ -26,10 +26,11 @@
     display: none;
   }
   form:hover .form-button{
-    background: rgba(52, 51, 151, 0.781);
+    background: rgba(97, 95, 233, 0.979);
     display: block;
     border-radius: 50px;
-    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0 0 20px 0 rgba(240, 235, 235, 0.897); */
+    min-width: 100px;
 
   }
   ::placeholder{

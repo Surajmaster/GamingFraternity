@@ -45,6 +45,12 @@
   min-height: 40px;
 }
 
+.sign:hover{
+  color: white;
+  background-color: red;
+
+}
+
 
 
   html{
